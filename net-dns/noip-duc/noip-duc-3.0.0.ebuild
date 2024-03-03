@@ -156,8 +156,8 @@ LICENSE="0BSD Apache-2.0 Apache-2.0-with-LLVM-exceptions ISC MIT MPL-2.0 Unicode
 SLOT="0"
 KEYWORDS="~amd64"
 
-IUSE="virtual/rust"
-DEPEND=""
+IUSE=""
+DEPEND="virtual/rust"
 RDEPEND="${DEPEND}"
 BDEPEND=""
 
