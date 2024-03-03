@@ -10,5 +10,5 @@ Yet another custom ebuild respository for things that I use.
 
     emaint --sync quinn-overlay
 
-See https://wiki.gentoo.org/wiki/Ebuild\_repository for more information on setting up alternative respositories.
+See https://wiki.gentoo.org/wiki/Ebuild_repository for more information on setting up alternative respositories.
 
